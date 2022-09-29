@@ -1,1 +1,1 @@
-window.href.location = "https://lnkd.in/eAyZsJQg"
+window.location.href = "https://lnkd.in/eAyZsJQg"
